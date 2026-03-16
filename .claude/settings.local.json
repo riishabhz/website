@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "Bash(mkdir -p \"d:/CV/rishabh 24/website/logos\")",
+      "Bash(curl -sL \"https://logo.clearbit.com/ey.com\" -o ey.png)",
+      "Bash(curl -sL \"https://logo.clearbit.com/fiserv.com\" -o fiserv.png)",
+      "Bash(curl -sL \"https://logo.clearbit.com/benetton.com\" -o benetton.png)",
+      "Bash(curl -sL \"https://logo.clearbit.com/on-data.co.uk\" -o ondata.png)",
+      "Bash(powershell -Command \":*)",
+      "Bash(powershell -Command \"Get-Item ''d:/CV/rishabh 24/website/logos/amity.png'' | Select-Object Length\")"
+    ]
+  }
+}
