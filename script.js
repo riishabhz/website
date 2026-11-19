@@ -125,7 +125,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
     if (nameElement && titleElement) {
         const nameText = 'Rishabh Bhardwaj';
-        const titleText = 'Analytics Consultant | Data Analyst';
+        const titleText = 'Forward Deployed Engineer | Analytics Consultant';
 
         nameElement.textContent = '';
         titleElement.textContent = '';
